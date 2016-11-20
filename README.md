@@ -1,4 +1,4 @@
 # ola-world
 teste de funcionalidade Github
-verificacao da funcionalidade cimmits (mudancas)
+verificacao da funcionalidade commits (mudancas)
 confirmazcao
